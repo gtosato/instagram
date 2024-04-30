@@ -78,6 +78,6 @@ $ npm run dev
 
 -    Adding search functionality to thread.
 
-## Roadblocks
+## Road Blocks
 
 -    Integrating NextAuth into development and deployed site. Initial understanding of managing session id was limited, but was later able to resolve after reading through documentation on NextAuth website.
