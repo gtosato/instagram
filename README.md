@@ -26,7 +26,7 @@ This application is built using the following technologies:
 -    Hero Icons to mock appearance of existing site
 -    Headless UI to manage modal popup
 
-This project was built to develop a better understanding of integrating Service Provider Authentication (Google) into an application. It uses Next.js to simplify routing and a Firestore database to store user posts. It also uses Firebase Cloud Storage to store images uploaded by users.
+This project was built to develop a better understanding of integrating Service Provider Authentication (Google Authentication) into an application. It uses Next.js to simplify routing and a Firestore database to store user posts. It also uses Firebase Cloud Storage to store images uploaded by users.
 
 ## Build Steps
 
