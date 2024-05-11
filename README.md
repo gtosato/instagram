@@ -68,7 +68,7 @@ $ npm run dev
 ## Design Goals / Functionality
 
 -    To develop an application with similar look and feel of existing site.
--    This is a partial mockup, with only specific functionality added. Once a user is logged in with Google authentication, they can then comment and like posts but typing in the 'Add a comment' field or clicking the heart icon respectively. Users can also upload images and posts by pressing on the plus icon in the header. Users can sign out by clicking on Sign Out, or clicking the avatar image in header.
+-    This is a partial mockup, with only specific functionality added. Once a user is logged in with Google authentication, they can then comment and like posts by typing in the 'Add a comment' field or clicking the heart icon respectively. Users can also upload images and posts by pressing on the plus icon in the header. Users can sign out by clicking on Sign Out, or clicking the avatar image in header.
 
 ## Known Issues
 
